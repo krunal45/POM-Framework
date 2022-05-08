@@ -1,0 +1,45 @@
+2022-05-08 15:46:12,712  INFO [main] BasePage:59 - Opened url https://www.contrado.co.uk/
+2022-05-08 15:46:24,120  INFO [main] BasePage:39 - Clicked on search button
+2022-05-08 15:46:40,517  INFO [main] BasePage:48 - Clicked on basic T-shirt Link
+2022-05-08 15:46:45,368  INFO [main] BasePage:79 - Window closed
+2022-05-08 15:46:45,368  INFO [main] BasePage:29 - Closed browser
+2022-05-08 15:49:24,340  INFO [main] BasePage:59 - Opened url https://www.contrado.co.uk/
+2022-05-08 15:49:35,527  INFO [main] BasePage:39 - Clicked on search button
+2022-05-08 15:49:51,852  INFO [main] BasePage:48 - Clicked on basic T-shirt Link
+2022-05-08 15:49:57,123  INFO [main] BasePage:79 - Window closed
+2022-05-08 15:49:57,123  INFO [main] BasePage:29 - Closed browser
+2022-05-08 16:39:00,708  INFO [main] BasePage:59 - Opened url https://www.contrado.co.uk/
+2022-05-08 16:39:12,216  INFO [main] BasePage:39 - Clicked on search button
+2022-05-08 16:39:29,069  INFO [main] BasePage:48 - Clicked on basic T-shirt Link
+2022-05-08 16:39:30,093  INFO [main] BasePage:39 - Clicked on add to wishlist Button
+2022-05-08 16:39:36,063  INFO [main] BasePage:44 - Clicked on wishlist Detail
+2022-05-08 16:41:02,791  INFO [main] BasePage:79 - Window closed
+2022-05-08 16:41:02,791  INFO [main] BasePage:29 - Closed browser
+2022-05-08 16:45:18,562  INFO [main] BasePage:59 - Opened url https://www.contrado.co.uk/
+2022-05-08 16:45:29,695  INFO [main] BasePage:39 - Clicked on search button
+2022-05-08 16:45:45,109  INFO [main] BasePage:48 - Clicked on basic T-shirt Link
+2022-05-08 16:45:46,125  INFO [main] BasePage:39 - Clicked on add to wishlist Button
+2022-05-08 16:45:51,975  INFO [main] BasePage:44 - Clicked on wishlist Detail
+2022-05-08 16:46:34,930  INFO [main] BasePage:79 - Window closed
+2022-05-08 16:46:34,930  INFO [main] BasePage:29 - Closed browser
+2022-05-08 16:49:07,711  INFO [main] BasePage:59 - Opened url https://www.contrado.co.uk/
+2022-05-08 16:49:18,967  INFO [main] BasePage:39 - Clicked on search button
+2022-05-08 16:49:32,681  INFO [main] BasePage:48 - Clicked on basic T-shirt Link
+2022-05-08 16:49:33,692  INFO [main] BasePage:39 - Clicked on add to wishlist Button
+2022-05-08 16:49:39,530  INFO [main] BasePage:44 - Clicked on wishlist Detail
+2022-05-08 16:50:10,519  INFO [main] BasePage:79 - Window closed
+2022-05-08 16:50:10,519  INFO [main] BasePage:29 - Closed browser
+2022-05-08 16:53:56,993  INFO [main] BasePage:59 - Opened url https://www.contrado.co.uk/
+2022-05-08 16:54:08,360  INFO [main] BasePage:39 - Clicked on search button
+2022-05-08 16:54:23,086  INFO [main] BasePage:48 - Clicked on basic T-shirt Link
+2022-05-08 16:54:24,060  INFO [main] BasePage:39 - Clicked on add to wishlist Button
+2022-05-08 16:54:28,819  INFO [main] BasePage:44 - Clicked on wishlist Detail
+2022-05-08 16:54:32,962  INFO [main] BasePage:79 - Window closed
+2022-05-08 16:54:32,962  INFO [main] BasePage:29 - Closed browser
+2022-05-08 16:57:59,723  INFO [main] BasePage:59 - Opened url https://www.contrado.co.uk/
+2022-05-08 16:58:11,204  INFO [main] BasePage:39 - Clicked on search button
+2022-05-08 16:58:26,638  INFO [main] BasePage:48 - Clicked on basic T-shirt Link
+2022-05-08 16:58:27,839  INFO [main] BasePage:39 - Clicked on add to wishlist Button
+2022-05-08 16:58:34,038  INFO [main] BasePage:44 - Clicked on wishlist Detail
+2022-05-08 16:58:37,239  INFO [main] BasePage:79 - Window closed
+2022-05-08 16:58:37,239  INFO [main] BasePage:29 - Closed browser
